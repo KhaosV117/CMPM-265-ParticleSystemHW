@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\this guy\documents\visual studio 2015\projects\dummyproject\dummyproject\main.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\this guy\documents\visual studio 2015\projects\dummyproject\dummyproject\main.cpp(132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dummyproject\dummyproject\main.cpp(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dummyproject\dummyproject\main.cpp(134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dummyproject\dummyproject\main.cpp(233): warning C4305: 'argument': truncation from 'double' to 'float'
+  DummyProject.vcxproj -> C:\Users\This Guy\Documents\Visual Studio 2015\Projects\DummyProject\Debug\DummyProject.exe
+  DummyProject.vcxproj -> C:\Users\This Guy\Documents\Visual Studio 2015\Projects\DummyProject\Debug\DummyProject.pdb (Full PDB)
